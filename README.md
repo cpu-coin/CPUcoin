@@ -1,8 +1,8 @@
-# CPU Coin token
+# CPUcoin token
 
-Smart contracts for the CPUcoin ecosystem token (see cpucoin.io and mediarich.io). 
+Smart contracts for the CPUcoin ecosystem token (see cpucoin.io ). 
 
-Core to CPUcoin is an implementation of a fully-featured vesting token.
+Core to CPUcoin pre-main net launch is an implementation of a fully-featured vesting token.
  
 Here is a brief summary of its features and capabilities:
 
@@ -93,13 +93,12 @@ This section is yet to be written.
 
 This section is yet to be written. 
 
-## Authors
-
-* **David Jennings** - *Initial work* - [djenning90](https://github.com/djenning90)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+This was made to help crypto projects solve the vesting token compliance issues plaguing the industry. For more information for how it can be used
+and why we did it please go here: https://cpucoin.medium.com/the-making-of-an-open-source-token-vesting-smart-contract
 
 ## Acknowledgments
 
