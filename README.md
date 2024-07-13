@@ -102,4 +102,4 @@ and why we did it please go here: https://cpucoin.medium.com/the-making-of-an-op
 
 ## Acknowledgments
 
-This section is yet to be written. 
+Sean Barger, Managing Director of CPUcoin concieve this addition to an ERC-20 token smart contract and made sure this functionality was made part of the original CPUcoin $CPU specifically to address the issues discussed and made a part of this token smart contract.
